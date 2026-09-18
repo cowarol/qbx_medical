@@ -6,13 +6,13 @@
         "wounds_healed": "Je wonden zijn genezen!"
     },
     "info": {
-        "self_death": "Zichzelf of een NPC",
+        "self_death": "Jezelf of een NPC",
         "wep_unknown": "Onbekend",
         "status": "Statuscontrole",
         "healthy": "Je bent weer helemaal gezond!",
-        "pain_message": "Uw%svoelt aan als%s",
-        "many_places": "Je hebt pijn op veel plaatsen...",
-        "bleed_alert": "Jij bent%s",
+        "pain_message": "Je %s voelt %s",
+        "many_places": "Je hebt op veel plaatsen pijn...",
+        "bleed_alert": "Je bent %s",
         "revive_player_a": "Breng een speler of jezelf weer tot leven (alleen beheerder)",
         "player_id": "Speler-ID (kan leeg zijn)",
         "pain_level": "Stel het pijnniveau van jou of een speler in (alleen beheerder)",
@@ -42,12 +42,12 @@
         "left_foot": "Linkervoet",
         "right_arm": "Rechterarm",
         "right_hand": "Rechterhand",
-        "right_fingers": "Rechter vingers",
+        "right_fingers": "Rechtervingers",
         "right_leg": "Rechterbeen",
         "right_foot": "Rechtervoet"
     },
     "logs": {
-        "death_log_title": "%s(%s) is dood",
-        "death_log_message": "%sheeft%sgedood met een **%s** (%s)"
+        "death_log_title": "%s (%s) is dood",
+        "death_log_message": "%s heeft %s gedood met een **%s** (%s)"
     }
 }
